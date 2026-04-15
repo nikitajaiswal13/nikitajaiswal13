@@ -17,8 +17,8 @@
 
 | Project              | Description                                                                | Tech Stack                            | Link                                                            |
 | -------------------- | -------------------------------------------------------------------------- | ------------------------------------- | --------------------------------------------------------------- |
-| 🏥 MediVault         | Medical records management system with JWT authentication and file uploads | Angular, Node.js, Express, MongoDB    | [View](https://github.com/nikitajaiswal13/medi-vault)           |
-| 📊 SkillSync         | Dashboard to track skills, projects, and certifications with dynamic UI    | Angular, TypeScript, Angular Material | [View](https://github.com/nikitajaiswal13/skill-sync-dashboard) |
+| 🏥 MediVault         | Medical records management system with JWT authentication and file uploads | Angular, Node.js, Express, MongoDB    | [View](https://github.com/nikitajaiswal13/MediVault)           |
+| 📊 SkillSync         | Dashboard to track skills, projects, and certifications with dynamic UI    | Angular, TypeScript, Angular Material | [View](https://github.com/nikitajaiswal13/SkillSync) |
 | 🌐 Portfolio Website | Responsive personal portfolio with contact form integration                | Angular, HTML, CSS, Bootstrap         | [View](https://nikitajaiswal13.netlify.app)                     |
 
 
