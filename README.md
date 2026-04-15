@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Nikita 👩‍💻
 
-<!--
-**nikitajaiswal13/nikitajaiswal13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer passionate about building real-world web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+* Frontend: Angular, HTML, CSS, Bootstrap
+* Backend: Node.js, Express.js
+* Database: MongoDB, MySQL
+* Languages: JavaScript, TypeScript, C++, Python
+
+---
+
+## 🔨 Projects
+
+| Project              | Description                                                                | Tech Stack                            | Link                                                            |
+| -------------------- | -------------------------------------------------------------------------- | ------------------------------------- | --------------------------------------------------------------- |
+| 🏥 MediVault         | Medical records management system with JWT authentication and file uploads | Angular, Node.js, Express, MongoDB    | [View](https://github.com/nikitajaiswal13/medi-vault)           |
+| 📊 SkillSync         | Dashboard to track skills, projects, and certifications with dynamic UI    | Angular, TypeScript, Angular Material | [View](https://github.com/nikitajaiswal13/skill-sync-dashboard) |
+| 🌐 Portfolio Website | Responsive personal portfolio with contact form integration                | Angular, HTML, CSS, Bootstrap         | [View](https://nikitajaiswal13.netlify.app)                     |
+
+
+---
+
+## 📈 Currently Working On
+
+* Improving Data Structures & Algorithms
+* Building scalable full-stack applications
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [Click Here ](https://www.linkedin.com/in/nikitajaiswal13)
+* Portfolio: [Click Here](https://nikitajaiswal13.netlify.app/)
+
